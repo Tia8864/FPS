@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - wall
+  - ground
+  - gun
+  - key
+  - bullet
+  - enemy
+  - door1
+  - door2
+  - door3
+  - bulletBoss
   layers:
   - Default
   - TransparentFX
